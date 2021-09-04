@@ -1,0 +1,37 @@
+html body {
+    background-color: moccasin;
+    font-family: sans-serif;
+}
+
+#head,
+html body article {
+    background-color: rgb(255, 246, 230);
+    border: black;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+
+#head h2,
+html body article h2,
+html body article p {
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+img {
+    margin-left: 1.5vw;
+    width: 90vw;
+    max-width: 500px;
+}
+
+.cite {
+    font-size: .6em;
+    color: blue;
+}
